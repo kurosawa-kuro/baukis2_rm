@@ -11,3 +11,6 @@ bin/rails g controller customer/top
 
 npm install --save-dev @babel/plugin-proposal-private-methods
 npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+rails g model StaffMember
+rails g model Administrator
